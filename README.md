@@ -4,8 +4,10 @@ A clone of the productivity chrome app Momentum on Vanilla JS
 <h2>Features</h2>
 <ul>
   <li> Clock </li>
+  <li> Username Persistance </li>
+  <li> Random Background Image</li>
   <li> To Do List </li>
-  <li> Weather </li>
+  <li> Weather with Geolocation</li>
   <li> Daily advice</li>
    
  </ul>
