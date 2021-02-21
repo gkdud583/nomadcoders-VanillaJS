@@ -10,4 +10,4 @@ A clone of the productivity chrome app Momentum on Vanilla JS
    
  </ul>
  <h2> Try it out</h2>
- http://127.0.0.1:5500/clone_coding/
+https://gkdud583.github.io/nomadcoders-VanillaJS/
