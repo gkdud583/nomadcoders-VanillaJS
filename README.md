@@ -1,4 +1,4 @@
-# Mononton
+# Momonton
 A clone of the productivity chrome app Momentum on Vanilla JS
 
 <h2>Features</h2>
