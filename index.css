@@ -85,7 +85,7 @@ body{
   transition: all 1s;
   font-size: 25px;
   position: absolute;
-  left:1160px;
+  left:85%;
   top:10px;
   z-index:3;
 
